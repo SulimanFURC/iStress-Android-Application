@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">iStress</string>
+    <string name="logo">Logo</string>
+    <string name="textView">iStress</string>
+    <string name="istress">iStress</string>
+    <string name="iStress">iStress</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="warning">WARNING:</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Age">Age</string>
+    <string name="EnterYourName">User Name</string>
+    <string name="EnterEmailAddress">User Email Address</string>
+    <string name="EnterAge">Enter Age</string>
+    <string name="not_for_medical_use_if_knowing_your_pulse_rate_is_critical_to_your_health_you_need_to_have_your_pule_taken_by_a_medical_professional_istress_is_not_intended_to_diagnose_prevent_or_treat_any_condition_or_to_be_a_substitute_for_professional_medical_care">NOT FOR MEDICAL USE. If knowing your pulse rate is critical to your health, you need to have your pule taken by a medical professional. iStress is not intended to diagnose, prevent or treat any condition, or to be a substitute for professional medical care.</string>
+    <string name="todo">TODO</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_your_name">Enter Your Name</string>
+
+</resources>

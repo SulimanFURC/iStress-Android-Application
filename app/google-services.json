@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "62547673838",
+    "firebase_url": "https://istress.firebaseio.com",
+    "project_id": "istress",
+    "storage_bucket": "istress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62547673838:android:9736b6f04ad347e4",
+        "android_client_info": {
+          "package_name": "com.example.sulim.stress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62547673838-44r137i6gv6s9go1ga2n2o79bulfalmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZf4Qrpcg0WaQFlS7XW_kz_2ya8HM3iY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
